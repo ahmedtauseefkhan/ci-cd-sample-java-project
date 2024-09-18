@@ -1,1 +1,1 @@
-# ci-cd-sample-java-project
+devops-setup-pipeline-docker-sonarqube
